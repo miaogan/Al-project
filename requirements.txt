@@ -1,0 +1,7 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+celery>=5.1.0
+redis>=3.5.0
+sqlalchemy>=1.4.0
+pydantic>=1.8.0
+pydantic-settings>=2.0.0
